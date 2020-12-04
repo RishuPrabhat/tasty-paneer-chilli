@@ -1,1 +1,2 @@
-# tasty-paneer-chilli
+# Chilli-Paneer
+Aim: To make Chilli Paneer
